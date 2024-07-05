@@ -1,2 +1,3 @@
 # Mobile-Price-Prediction
 Create a Classification model to predict the Price range of the Mobile.
+At first we check for the null values in the dataset, if any we will modify or remove them ->Then visualization of data using different attributes which are in correaltion to the price attribute ->After we divide the data set into train and test data set ->Then we train the data using different models like a)Logistic Regression b)KNN Classification c)SVM Classifier with linear and rbf kernel ->find Confusion matrix and classification report for each of these models. ->Report the model with the best accuracy
